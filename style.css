@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+.yellow{
+    background-color:aqua;
+}
+canvas{
+    border-width: 10px;
+border-color: black; 
+border-style:double;
+
+}
